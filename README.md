@@ -1,1 +1,3 @@
-# publications
+# Publications
+## LinuxForYou
+## DeveloperIQ
